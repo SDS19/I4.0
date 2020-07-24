@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Expression semantic | Requirement",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "ExpressionSemantic",
+      "qualifierValue": "REQUIREMENT_0",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Expression semantic | Assurance",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "ExpressionSemantic",
+      "qualifierValue": "ASSURANCE_1",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Expression semantic | Offer",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "ExpressionSemantic",
+      "qualifierValue": "OFFER_2",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Greater than ( > )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "GREATER_THAN_0",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Greater equal ( >= )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "GREATER_EQUAL_1",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Equal ( = )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "EQUAL_2",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Not equal ( != )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "NOT_EQUAL_3",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Less equal ( <= )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "LESS_EQUAL_4",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Less than",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "LESS_THAN_5",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Requirement",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "GREATER_THAN_0",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | In range in bounds ( [] )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "IN_RANGE_IB_6",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | In range ex bounds ( [/] )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "IN_RANGE_EB_7",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Out of range in bounds ( ][ )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "OUT_OF_RANGE_IB_8",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Predicate relation | Out of range ex bounds ( ]/[ )",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "PredicateRelation",
+      "qualifierValue": "OUT_OF_RANGE_EB_9",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Expression semantic | Actual value",
+    "qualifier": {
+      "semanticId": null,
+      "qualifierType": "ExpressionSemantic",
+      "qualifierValue": "ACTUAL_VALUE_2",
+      "qualifierValueId": null
+    }
+  },
+  {
+    "name": "Life cycle | as BUILT",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF575"
+          }
+        ]
+      },
+      "qualifierType": "life cycle qual",
+      "qualifierValue": "BUILT",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF573"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Life cycle | as INQUIRED",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF575"
+          }
+        ]
+      },
+      "qualifierType": "life cycle qual",
+      "qualifierValue": "INQ",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF576"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Life cycle | as OFFERED",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF575"
+          }
+        ]
+      },
+      "qualifierType": "life cycle qual",
+      "qualifierValue": "OFF",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF577"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Life cycle | as OPERATED",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF575"
+          }
+        ]
+      },
+      "qualifierType": "life cycle qual",
+      "qualifierValue": "OP",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF578"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Life cycle | as SPECIFIED",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF575"
+          }
+        ]
+      },
+      "qualifierType": "life cycle qual",
+      "qualifierValue": "SPEC",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF579"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Life cycle | as SUPPLIED",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF575"
+          }
+        ]
+      },
+      "qualifierType": "life cycle qual",
+      "qualifierValue": "SUP",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF580"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Life cycle | as DECOMMISSIONED",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF575"
+          }
+        ]
+      },
+      "qualifierType": "life cycle qual",
+      "qualifierValue": "DECOM",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF582"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Value processing | arithmetic mean",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF583"
+          }
+        ]
+      },
+      "qualifierType": "value proc qual",
+      "qualifierValue": "AM",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF591"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Value processing | geometric mean",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF583"
+          }
+        ]
+      },
+      "qualifierType": "value proc qual",
+      "qualifierValue": "GM",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF592"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Value processing | median",
+    "qualifier": {
+      "semanticId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF583"
+          }
+        ]
+      },
+      "qualifierType": "value proc qual",
+      "qualifierValue": "MED",
+      "qualifierValueId": {
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "local": false,
+            "idType": "IRDI",
+            "value": "0112/2///61360_4#AAF594"
+          }
+        ]
+      }
+    }
+  }
+]
