@@ -1,3 +1,7 @@
+2020-9-29 add references of project "I4.0 Communication"
+2020-9-17 Tutorials of IoT Development
+	  https://developer.ibm.com/series/iot-lp101-getting-started/
+	  https://developer.ibm.com/series/iot-lp201-next-steps/	  
 2020-7-26 MQTT https://developer.ibm.com/components/mqtt/articles/iot-mqtt-why-good-for-iot#
 	  Client: Eclipse Mosquitto
 	  Broker: IBM Internet of Things Platform (HTTP API + Web Frontend)
