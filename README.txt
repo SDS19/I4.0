@@ -1,3 +1,6 @@
+2020-9-30 add Handbuch Industrie 4.0
+	  https://link.springer.com/referencework/10.1007/978-3-662-45537-1?page=1#toc
+	  add references of project "BaSys4.0"
 2020-9-29 add references of project "I4.0 Communication"
 2020-9-17 Tutorials of IoT Development
 	  https://developer.ibm.com/series/iot-lp101-getting-started/
